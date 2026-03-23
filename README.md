@@ -13,7 +13,7 @@ Developer and system enthusiast. I optimize PCs, improve performance, and explor
 - 🐞 Reverse engineering and low-level analysis
 - 🛡️ Digital forensics and memory analysis `Forensics`
 - 🖥️ UI development and tool creation
-- 🐧 Basics of Linux & completed TryHackMe course `Linux`
+- 🐧 Basics of Linux 
 
 ---
 
