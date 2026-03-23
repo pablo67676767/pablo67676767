@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Pablo 👋
 
-<!--
-**pablo67676767/pablo67676767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer and system enthusiast. I optimize PCs, improve performance, and explore how software and systems work.
 
-Here are some ideas to get you started:
+*“Control is an illusion.” – Elliot Alderson*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Do
+
+- 💻 Software development in Python & C++ `Python | C++`
+- ⚡ System optimization and performance improvement
+- 🐞 Reverse engineering and low-level analysis
+- 🛡️ Digital forensics and memory analysis `Forensics`
+- 🖥️ UI development and tool creation
+- 🐧 Basics of Linux & completed TryHackMe course `Linux`
+
+---
+
+## Projects
+
+- 💻 **PC Performance Tool** – Scripts to make systems run faster
+- 🕵️ **Privacy Maximizer** – Tools to protect user privacy
+- 🌐 **Network Monitoring Tool** – Track and analyze network activity
+- ⚙️ **UI Tools & Interfaces** – Custom interfaces for experiments and utilities
+- 🎮 **FPS Optimization Scripts** – Improve game performance
