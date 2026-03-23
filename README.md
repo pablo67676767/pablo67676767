@@ -2,7 +2,6 @@
 
 Developer and system enthusiast. I optimize PCs, improve performance, and explore how software and systems work.
 
-*“Control is an illusion.” – Elliot Alderson*
 
 ---
 
